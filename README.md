@@ -1,9 +1,10 @@
 # small-games
-some small games, including a dice game, a drum game and simon game
+some small games, including a dice game, a drum game and simon game. 
 
 all games implemented by html/css/js
 ### 1. dice game
 click anywhere on the screen to roll the dices and decide who to win between you and your friend.
+[have a try](https://txwyy123.github.io/small-games/dice-game/dicee.html)
 
 ### 2. drum game
 click on the drums or press the corresponding keys to hit the drum and make some noise.
